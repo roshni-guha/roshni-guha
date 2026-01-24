@@ -1,16 +1,30 @@
-## Hi there 👋
+```yaml
+Hi, my name is Roshni!
 
-<!--
-**roshni-guha/roshni-guha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+location: Madison, WI
+education:
+  [
+  University of Wisconsin - Madison
+    2024 - 2028
+  B.S in Computer Science (Hons.), Certificate in Business
+  ]
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="css" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="css" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="css" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="css" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="css" width="45" height="45"/> 
+<img src="https://www.vectorlogo.zone/logos/open-std_c/open-std_c-icon~alt2.svg" alt="css" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="css" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="css" width="45" height="45"/>
+</p>
