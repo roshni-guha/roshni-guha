@@ -27,4 +27,6 @@ education:
 <img src="https://www.vectorlogo.zone/logos/open-std_c/open-std_c-icon~alt2.svg" alt="C" width="45" height="45"/>
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="45" height="45"/>
 <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />                    
 </p>
