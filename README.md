@@ -40,6 +40,5 @@ education:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="45"/>
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="45"/>
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-plain.svg" alt="confluence" width="45"/>
 </p>
 
