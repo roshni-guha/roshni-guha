@@ -6,7 +6,7 @@ education:
   [
   University of Wisconsin - Madison
     2024 - Present
-  B.S in Computer Science (Hons.), Certificate in Business
+  B.S in Computer Science (Hons.) & Mathematics, Certificate in Business
   ]
 ```
 
